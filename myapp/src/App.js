@@ -14,6 +14,6 @@ function App() {
         <TodoItem />  
     </div>
   );
-}
+} 
 
 export default App;
